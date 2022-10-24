@@ -5,7 +5,10 @@
 ## Что было сделано?
 1. :chart_with_upwards_trend: Визуализация зависимости фичей от таргета:
 <img src="2.png">
+
 2. :construction_worker: Заполнение пропущенных значений и работа с категориальными данными:
+<img src="cat_img_feat.png">
+
 ## ✨Contributing✨
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
