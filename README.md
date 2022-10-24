@@ -10,7 +10,8 @@
 <img src="nan.png">
 
 3. Нормирование таргета с помощью логарифмирования:
-4. 
+<img src="target.png">
+
 ## ✨Contributing✨
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
