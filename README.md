@@ -2,7 +2,7 @@
 🏠 🏠 Predict sales prices and practice feature engineering 🏠 🏠
 [House Prices: Advanced Regression Techniques Competition on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 ## Что было сделано?
-1. Визуализация зависимости фичей от таргета 
+1. :chart_with_upwards_trend:Визуализация зависимости фичей от таргета:
 <img src="2.png">
 
 ## ✨Contributing✨
