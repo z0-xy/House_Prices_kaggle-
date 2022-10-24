@@ -1,10 +1,11 @@
 # House Prices Competition from Kaggle
 🏠 🏠 Predict sales prices and practice feature engineering 🏠 🏠
+
 [House Prices: Advanced Regression Techniques Competition on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 ## Что было сделано?
-1. :chart_with_upwards_trend:Визуализация зависимости фичей от таргета:
+1. :chart_with_upwards_trend: Визуализация зависимости фичей от таргета:
 <img src="2.png">
-
+2. :construction_worker: Заполнение пропущенных значений и работа с категориальными данными:
 ## ✨Contributing✨
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -13,4 +14,4 @@
 5. Submit a pull request :heavy_check_mark:
 
 
-index.png
+
