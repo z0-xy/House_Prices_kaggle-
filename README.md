@@ -13,7 +13,7 @@
 <img src="target.png">
 
 4. :pencil: Анализ качества работы различных моделей:
-<img src="input.png">
+<img src="index.png">
 5. Загрузка результата на kaggle и вхождение в топ 10% участников :)
 
 ## ✨Contributing✨
