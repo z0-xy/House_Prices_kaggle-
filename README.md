@@ -7,7 +7,7 @@
 <img src="2.png">
 
 2. :construction_worker: Заполнение пропущенных значений и работа с категориальными данными:
-<img src="cat_img_feat.png">
+<img src="nan.png">
 
 ## ✨Contributing✨
 1. Fork it!
